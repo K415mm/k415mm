@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/K415mm/k415mm/master/profile-summary-card-output/date_night/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
@@ -29,6 +39,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/K415mm/k415mm/master/profile-summary-card-output/date_night/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/K415mm/k415mm/master/profile-summary-card-output/date_night/3-stats.svg)
 ```
 
     
